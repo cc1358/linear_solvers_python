@@ -1,1 +1,1 @@
-# linear_solvers_python
+Basic Linear Solvers in Python 
